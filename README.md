@@ -23,10 +23,3 @@ yarn lint
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
-###Framework
-
-Vue JS
-
-###IDE
-
-VS code
